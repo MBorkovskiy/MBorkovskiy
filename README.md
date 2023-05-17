@@ -19,4 +19,4 @@ I am Front End developer.
 
 ### Socials
 
-<p align="left"> <a href="https://t.me/maxim_alexeyevich" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/21/510/png-transparent-video-application-logo-telegram-logo-computer-icons-telegram-miscellaneous-blue-angle.png" width="32" height="32" /></a> </p>
+<p align="left"> <a href="https://t.me/maxim_alexeyevich" target="_blank" rel="noreferrer"><img src="https://static.tildacdn.com/tild6661-3337-4233-a336-353530363538/telegram-1.png" width="32" height="32" /></a> </p>
