@@ -5,7 +5,7 @@ I am Front End developer.
 --------------------------
 
 *   🌍  I'm based in Moscow, Russia
-*   🖥️  See my Pet-projects in my repositories
+*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://mborkovskiy.github.io/portfolio/'>Portfolio</a> and also Pet-projects in my repositories
 *   🧠  Currently learning Typescript
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
